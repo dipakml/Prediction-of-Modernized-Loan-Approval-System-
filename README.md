@@ -1,5 +1,7 @@
 ## End-to-End Machine Learning Project- Loan Eligibility Prediction using Machine Learning
 
+<img target="_blank" src="https://github.com/dipakml/Prediction-of-Modernized-Loan-Approval-System-/blob/master/PL-Eligibility-Calc.png" width=600>
+
 ### Table of Content
   * [Overview](#overview)
   * [Dataset Information](#dataset)
